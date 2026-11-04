@@ -1,0 +1,105 @@
+{
+  "step": "1: supplied baselines; no tuning; no test predictions",
+  "split_recordings": {
+    "train": 301,
+    "fit": 225,
+    "validation": 76,
+    "test": 129
+  },
+  "settings": {
+    "random_state": 42,
+    "segmentation": "baseline_segment: 1 s moving std > 0.5 m/s^2",
+    "rep_counter": "baseline_count_reps: magnitude peaks above mean, >=1 s apart",
+    "rep_exercise_labels": "true exercise (provided helper default)",
+    "window_seconds": 4,
+    "window_overlap": 0.5,
+    "features": [
+      "avg",
+      "max",
+      "med",
+      "min",
+      "q25",
+      "q75",
+      "std"
+    ]
+  },
+  "rep_counting": {
+    "train": {
+      "recordings": 301,
+      "MAE": 7.980066445182724,
+      "within_2": 0.19601328903654486,
+      "bias": 4.6112956810631225
+    },
+    "fit": {
+      "recordings": 225,
+      "MAE": 7.977777777777778,
+      "within_2": 0.21333333333333335,
+      "bias": 4.804444444444444
+    },
+    "validation": {
+      "recordings": 76,
+      "MAE": 7.9868421052631575,
+      "within_2": 0.14473684210526316,
+      "bias": 4.0394736842105265
+    }
+  },
+  "classification": [
+    {
+      "model": "Decision Tree",
+      "fit_windows": 3677,
+      "validation_windows": 1156,
+      "validation_window_accuracy": 0.4186851211072664,
+      "parameters": {
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "entropy",
+        "max_depth": 5,
+        "max_features": null,
+        "max_leaf_nodes": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "random_state": 42,
+        "splitter": "best"
+      }
+    },
+    {
+      "model": "Random Forest",
+      "fit_windows": 3677,
+      "validation_windows": 1156,
+      "validation_window_accuracy": 0.4679930795847751,
+      "parameters": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": null,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 100,
+        "n_jobs": null,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+      }
+    }
+  ],
+  "environment": {
+    "python": "3.14.3",
+    "numpy": "2.5.4",
+    "pandas": "3.1.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1"
+  },
+  "util_sha256": "b5d19baf94207c8414cd6ff3e055d3649e1a487f128581a7e7d13c1ac62daed1"
+}
