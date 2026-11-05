@@ -1009,6 +1009,34 @@ interpretation.
 - Source hashes match, `util.py` is unchanged, and no new model fitting or
   parameter selection occurred. The execution helper stays deleted.
 
+## Rubric audit after Step 6
+
+At the user's request, reread the complete rubric and notebook requirements.
+Created `RUBRIC_CHECKLIST.md` with requirement-by-requirement status, PDF report
+requirements, self-run instructions, personal study prompts, and the individual
+grading checks that cannot be verified from the repository.
+
+The audit confirms remaining gaps: notebook cell 17 still has final counting
+test tables marked `FILL UP`; cell 41 still has the failure-analysis TODO;
+cell 42 still requests the top two failure explanations. There is no
+`exploration_report.pdf` yet, and the contribution statement is not written.
+Consequently we cannot call the submission rubric-complete or promise full marks.
+
+All 430 manifest files exist and `util.py` is unchanged. Saved recording totals
+were checked again. A separate temporary copy is now executing the unchanged
+notebook starting with no saved results, with read-only access to the original
+data, to test regeneration rather than dependence on existing caches. This does
+not implement Step 7 or modify methods using test results.
+
+The clean-copy audit passed: all 17 code cells ran in
+`/private/tmp/a3-rubric-audit-9h8ppuuc`, starting without saved results, using our
+installed environment and read-only access to the source data. It reproduced
+the selected classifier settings, test-window accuracies, and final recording
+predictions exactly. The audit summary is saved there as `audit_result.json`.
+The source notebook and methods were not changed. This checks reproducibility
+in the current environment; it does not finish the empty analysis/report tasks
+or verify personal data-collection/quiz credit.
+
 ## Next step and final deliverables
 
 Next is **Step 7: failure analysis and remaining final counting comparisons**.
