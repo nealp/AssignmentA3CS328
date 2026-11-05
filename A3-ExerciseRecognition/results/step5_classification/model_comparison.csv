@@ -1,0 +1,5 @@
+model,variant,parameters,validation_window_accuracy,test_window_accuracy,test_macro_f1,training_windows,test_windows
+decision_tree,default,"{""max_depth"": 5, ""criterion"": ""entropy"", ""class_weight"": null}",0.43738656987295826,0.4843243243243243,0.27994198729973463,2225,925
+decision_tree,selected,"{""class_weight"": null, ""criterion"": ""gini"", ""max_depth"": 12}",0.5009074410163339,0.4648648648648649,0.4055063537440866,2225,925
+random_forest,default,"{""n_estimators"": 100, ""max_depth"": null, ""min_samples_leaf"": 1, ""class_weight"": null}",0.5626134301270418,0.5956756756756757,0.4925866917681405,2225,925
+random_forest,selected,"{""class_weight"": ""balanced"", ""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 200}",0.5662431941923775,0.6043243243243244,0.5531644394182497,2225,925

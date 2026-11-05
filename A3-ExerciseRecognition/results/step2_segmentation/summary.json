@@ -1,0 +1,170 @@
+{
+  "scope": "Step 2 development comparison; no test signals or predictions",
+  "adaptive_settings": {
+    "energy_window_sec": 1.0,
+    "quiet_percentile": 10,
+    "active_percentile": 90,
+    "threshold_fraction": 0.2,
+    "minimum_threshold": 0.02,
+    "max_gap_sec": 2.0,
+    "min_bout_sec": 4.0,
+    "padding_sec": 0.75
+  },
+  "protocol_trim_seconds_per_end": 5,
+  "fixed_counter": "baseline_count_reps",
+  "fixed_features": [
+    "avg",
+    "max",
+    "med",
+    "min",
+    "q25",
+    "q75",
+    "std"
+  ],
+  "fixed_window_seconds": 4,
+  "counting": [
+    {
+      "approach": "baseline",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 7.980066445182724,
+      "within_2": 0.19601328903654486,
+      "bias": 4.6112956810631225
+    },
+    {
+      "approach": "baseline",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 7.977777777777778,
+      "within_2": 0.21333333333333335,
+      "bias": 4.804444444444444
+    },
+    {
+      "approach": "baseline",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 7.9868421052631575,
+      "within_2": 0.14473684210526316,
+      "bias": 4.0394736842105265
+    },
+    {
+      "approach": "protocol_trim",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 6.4186046511627906,
+      "within_2": 0.29900332225913623,
+      "bias": 2.3654485049833887
+    },
+    {
+      "approach": "protocol_trim",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 6.555555555555555,
+      "within_2": 0.3288888888888889,
+      "bias": 2.6
+    },
+    {
+      "approach": "protocol_trim",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 6.0131578947368425,
+      "within_2": 0.21052631578947367,
+      "bias": 1.6710526315789473
+    },
+    {
+      "approach": "adaptive",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 6.255813953488372,
+      "within_2": 0.26245847176079734,
+      "bias": 1.2857142857142858
+    },
+    {
+      "approach": "adaptive",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 6.36,
+      "within_2": 0.28,
+      "bias": 1.248888888888889
+    },
+    {
+      "approach": "adaptive",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 5.947368421052632,
+      "within_2": 0.21052631578947367,
+      "bias": 1.394736842105263
+    }
+  ],
+  "classification": [
+    {
+      "approach": "baseline",
+      "model": "Decision Tree",
+      "fit_windows": 3677,
+      "validation_windows": 1156,
+      "validation_window_accuracy": 0.4186851211072664
+    },
+    {
+      "approach": "baseline",
+      "model": "Random Forest",
+      "fit_windows": 3677,
+      "validation_windows": 1156,
+      "validation_window_accuracy": 0.4679930795847751
+    },
+    {
+      "approach": "protocol_trim",
+      "model": "Decision Tree",
+      "fit_windows": 2889,
+      "validation_windows": 882,
+      "validation_window_accuracy": 0.4489795918367347
+    },
+    {
+      "approach": "protocol_trim",
+      "model": "Random Forest",
+      "fit_windows": 2889,
+      "validation_windows": 882,
+      "validation_window_accuracy": 0.4954648526077097
+    },
+    {
+      "approach": "adaptive",
+      "model": "Decision Tree",
+      "fit_windows": 2670,
+      "validation_windows": 887,
+      "validation_window_accuracy": 0.49943630214205187
+    },
+    {
+      "approach": "adaptive",
+      "model": "Random Forest",
+      "fit_windows": 2670,
+      "validation_windows": 887,
+      "validation_window_accuracy": 0.48928974069898534
+    }
+  ],
+  "visual_examples": [
+    "results/step2_segmentation/figures/ab_crunches_001_2026-09-14_16-57-35.png",
+    "results/step2_segmentation/figures/bicep_curls_001_2026-09-10_14-51-25.png",
+    "results/step2_segmentation/figures/jumping_jacks_003_2026-09-13_23-59-47.png",
+    "results/step2_segmentation/figures/lat_raises_001_2026-10-14_02-53-43.png",
+    "results/step2_segmentation/figures/lunges_002_2026-10-04_17-29-31.png",
+    "results/step2_segmentation/figures/push_ups_001_2026-09-11_14-44-45.png",
+    "results/step2_segmentation/figures/sit_ups_002_2026-09-25_01-44-22.png",
+    "results/step2_segmentation/figures/squats_002_2026-09-13_19-25-27.png",
+    "results/step2_segmentation/figures/bicep_curls_006_2026-10-13_22-59-33.png",
+    "results/step2_segmentation/figures/ab_crunches_014_2026-10-18_23-54-55.png"
+  ],
+  "failure_examples": {
+    "baseline_failure": {
+      "recording": "data/squats/002_2026-09-13_19-25-27.csv",
+      "figure": "results/step2_segmentation/figures/baseline_failure.png"
+    },
+    "adaptive_failure": {
+      "recording": "data/ab_crunches/002_2026-10-13_22-50-15.csv",
+      "figure": "results/step2_segmentation/figures/adaptive_failure.png"
+    }
+  },
+  "source_sha256": {
+    "util.py": "b5d19baf94207c8414cd6ff3e055d3649e1a487f128581a7e7d13c1ac62daed1",
+    "segmentation.py": "9ecc927b7e6ee512a1ca95ccfdc65f1ab5459ec0f3fc129900803724be8635a6",
+    "segmentation_exploration.py": "06ff08b6228070df0a305dc1c436fbc2c1740dd4ebff1a6a77a33115fdc62b6c"
+  }
+}

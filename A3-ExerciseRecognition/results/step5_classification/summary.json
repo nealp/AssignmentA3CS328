@@ -1,0 +1,138 @@
+{
+  "scope": "Step 5: frozen validation selection, final test-window evaluation",
+  "frozen_selection_sha256": "36c0369a5089d5c41adcf4693fc6014381a88212de6929a755ad0f28dd18e4ac",
+  "selected_model_family": "random_forest",
+  "selection": {
+    "decision_tree": {
+      "selected_parameters": {
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 12
+      },
+      "selected_candidate": 3,
+      "selected_validation_window_accuracy": 0.5009074410163339,
+      "default_parameters": {
+        "max_depth": 5,
+        "criterion": "entropy",
+        "class_weight": null
+      },
+      "default_candidate": 6,
+      "default_validation_window_accuracy": 0.43738656987295826
+    },
+    "random_forest": {
+      "selected_parameters": {
+        "class_weight": "balanced",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "n_estimators": 200
+      },
+      "selected_candidate": 13,
+      "selected_validation_window_accuracy": 0.5662431941923775,
+      "default_parameters": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "class_weight": null
+      },
+      "default_candidate": 0,
+      "default_validation_window_accuracy": 0.5626134301270418
+    }
+  },
+  "model_comparison": [
+    {
+      "model": "decision_tree",
+      "variant": "default",
+      "parameters": {
+        "max_depth": 5,
+        "criterion": "entropy",
+        "class_weight": null
+      },
+      "validation_window_accuracy": 0.43738656987295826,
+      "test_window_accuracy": 0.4843243243243243,
+      "test_macro_f1": 0.27994198729973463,
+      "training_windows": 2225,
+      "test_windows": 925
+    },
+    {
+      "model": "decision_tree",
+      "variant": "selected",
+      "parameters": {
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 12
+      },
+      "validation_window_accuracy": 0.5009074410163339,
+      "test_window_accuracy": 0.4648648648648649,
+      "test_macro_f1": 0.4055063537440866,
+      "training_windows": 2225,
+      "test_windows": 925
+    },
+    {
+      "model": "random_forest",
+      "variant": "default",
+      "parameters": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "class_weight": null
+      },
+      "validation_window_accuracy": 0.5626134301270418,
+      "test_window_accuracy": 0.5956756756756757,
+      "test_macro_f1": 0.4925866917681405,
+      "training_windows": 2225,
+      "test_windows": 925
+    },
+    {
+      "model": "random_forest",
+      "variant": "selected",
+      "parameters": {
+        "class_weight": "balanced",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "n_estimators": 200
+      },
+      "validation_window_accuracy": 0.5662431941923775,
+      "test_window_accuracy": 0.6043243243243244,
+      "test_macro_f1": 0.5531644394182497,
+      "training_windows": 2225,
+      "test_windows": 925
+    }
+  ],
+  "features": [
+    "avg",
+    "max",
+    "med",
+    "min",
+    "q25",
+    "q75",
+    "std",
+    "std_x",
+    "std_y",
+    "std_z",
+    "axis_dominance",
+    "dominant_frequency",
+    "spectral_concentration",
+    "corr_xy",
+    "corr_yz",
+    "rms_acceleration"
+  ],
+  "window_sec": 6,
+  "segmentation": "adaptive",
+  "fit_recordings": 225,
+  "validation_recordings": 76,
+  "training_recordings": 301,
+  "test_recordings": 129,
+  "model_paths": {
+    "decision_tree_default": "results/step5_classification/models/decision_tree_default.joblib",
+    "decision_tree_selected": "results/step5_classification/models/decision_tree_selected.joblib",
+    "random_forest_default": "results/step5_classification/models/random_forest_default.joblib",
+    "random_forest_selected": "results/step5_classification/models/random_forest_selected.joblib"
+  },
+  "test_frames_path": "results/step5_classification/features_test.csv",
+  "figures": {
+    "decision_tree_confusion": "results/step5_classification/figures/decision_tree_test_confusion.png",
+    "random_forest_confusion": "results/step5_classification/figures/random_forest_test_confusion.png",
+    "decision_tree_structure": "results/step5_classification/figures/dt.png",
+    "forest_feature_importances": "results/step5_classification/figures/forest_feature_importances.png"
+  }
+}

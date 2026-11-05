@@ -1,0 +1,43 @@
+{
+  "scope": "Step 6: fixed majority voting on Step 5 test-window predictions; no tuning",
+  "voting_rule": "most frequent window label; exact ties resolved alphabetically",
+  "selected_model_family": "random_forest",
+  "comparison": [
+    {
+      "model": "decision_tree",
+      "test_recordings": 129,
+      "test_windows": 925,
+      "window_accuracy": 0.4648648648648649,
+      "mean_recording_window_accuracy": 0.4752634101471311,
+      "recording_accuracy": 0.4883720930232558,
+      "correct_recordings": 63,
+      "recording_macro_f1": 0.40196488200029523,
+      "tied_recordings": 15
+    },
+    {
+      "model": "random_forest",
+      "test_recordings": 129,
+      "test_windows": 925,
+      "window_accuracy": 0.6043243243243244,
+      "mean_recording_window_accuracy": 0.590383486589117,
+      "recording_accuracy": 0.6356589147286822,
+      "correct_recordings": 82,
+      "recording_macro_f1": 0.5908855565951361,
+      "tied_recordings": 11
+    }
+  ],
+  "figures": {
+    "decision_tree": "results/step6_recordings/figures/decision_tree_recording_confusion.png",
+    "random_forest": "results/step6_recordings/figures/random_forest_recording_confusion.png"
+  },
+  "final_confusion_figure": "results/step6_recordings/figures/random_forest_recording_confusion.png",
+  "frozen_selection_sha256": "36c0369a5089d5c41adcf4693fc6014381a88212de6929a755ad0f28dd18e4ac",
+  "model_sha256": {
+    "decision_tree": "815df911423b55d51189ab193385c4499b7db22016a1a70453094cfc20791bc6",
+    "random_forest": "c89f3ba37b6f73fdc2f929d0eaba8d6aef3123566bbaa9d74f879e0123e1b4d4"
+  },
+  "source_sha256": {
+    "recording_predictions.py": "e472e06a5b3272a6d2b3adc772228553e1cbff8177354b75c6394a1b4e48a8c1",
+    "recording_exploration.py": "f90cdc020fc6ed382d3ff7bf3fa9ccabe85a0f7fa03fc0b32c1769f8273be8aa"
+  }
+}

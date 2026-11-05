@@ -1,0 +1,926 @@
+recording,exercise,decision_tree_default,decision_tree_selected,random_forest_default,random_forest_selected
+data/jumping_jacks/086_2026-10-19_18-15-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/086_2026-10-19_18-15-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/086_2026-10-19_18-15-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/086_2026-10-19_18-15-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/sit_ups/024_2026-10-18_23-55-25.csv,Sit-ups,Squats,Squats,Ab crunches,Ab crunches
+data/sit_ups/024_2026-10-18_23-55-25.csv,Sit-ups,Squats,Squats,Sit-ups,Sit-ups
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Lunges
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Lunges,Bicep curls,Squats,Lunges
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Sit-ups,Squats,Lunges
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Ab crunches,Lunges,Lunges
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,Lunges,Squats,Lunges
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,Lunges,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,Lunges,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,Sit-ups,Lunges,Lunges
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,Lunges,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,Squats,Squats,Squats
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Squats,Lunges,Squats,Lunges
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Squats,Lunges,Squats,Squats
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Bicep curls,Squats,Squats,Push-ups
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Bicep curls,Squats,Squats,Squats
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Bicep curls,Lunges,Lunges,Lunges
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Bicep curls,Squats,Push-ups,Lunges
+data/ab_crunches/015_2026-10-19_02-32-31.csv,Ab crunches,Squats,Push-ups,Push-ups,Push-ups
+data/ab_crunches/015_2026-10-19_02-32-31.csv,Ab crunches,Squats,Lunges,Push-ups,Push-ups
+data/ab_crunches/015_2026-10-19_02-32-31.csv,Ab crunches,Squats,Squats,Squats,Sit-ups
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Squats,Squats,Lunges,Lunges
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Lunges,Sit-ups,Lunges,Lunges
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Squats,Squats,Lunges,Lunges
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Lunges,Squats,Lunges,Lunges
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Lunges,Squats,Lunges,Lunges
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Lunges,Lunges,Lunges
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Squats,Push-ups,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Squats,Squats,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Ab crunches,Squats,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Squats,Squats,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Squats,Push-ups,Push-ups,Lunges
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/push_ups/026_2026-10-18_23-50-30.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/026_2026-10-18_23-50-30.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/026_2026-10-18_23-50-30.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/026_2026-10-18_23-50-30.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/026_2026-10-18_23-50-30.csv,Push-ups,Squats,Squats,Squats,Sit-ups
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Squats,Lat raises,Squats,Sit-ups
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Squats,Squats,Lat raises
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Squats,Squats,Squats
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Lunges,Lunges,Lunges
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Sit-ups,Lunges,Lunges
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Lunges,Lunges,Lunges
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Lunges,Lunges,Lunges
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Lunges,Squats,Lunges
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,Lunges,Squats,Lunges
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,Push-ups,Squats,Bicep curls
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Squats,Lat raises,Push-ups,Push-ups
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Squats,Ab crunches,Ab crunches,Ab crunches
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Squats,Sit-ups,Bicep curls,Bicep curls
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Squats,Sit-ups,Bicep curls,Ab crunches
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Squats,Squats,Ab crunches,Bicep curls
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Squats,Squats,Ab crunches,Ab crunches
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Squats,Lunges,Sit-ups,Sit-ups
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Squats,Lunges,Sit-ups,Sit-ups
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Squats,Lunges,Squats,Sit-ups
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Squats,Squats,Squats,Squats
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Bicep curls,Squats,Bicep curls,Bicep curls
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Bicep curls,Jumping jacks,Jumping jacks,Jumping jacks
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Bicep curls,Bicep curls,Jumping jacks,Jumping jacks
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/jumping_jacks/064_2026-10-19_03-03-59.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/064_2026-10-19_03-03-59.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/064_2026-10-19_03-03-59.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/079_2026-10-19_05-40-03.csv,Jumping jacks,Lat raises,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/079_2026-10-19_05-40-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/079_2026-10-19_05-40-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/079_2026-10-19_05-40-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/079_2026-10-19_05-40-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/ab_crunches/020_2026-10-19_03-04-48.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/020_2026-10-19_03-04-48.csv,Ab crunches,Squats,Ab crunches,Squats,Squats
+data/ab_crunches/020_2026-10-19_03-04-48.csv,Ab crunches,Squats,Ab crunches,Squats,Squats
+data/ab_crunches/020_2026-10-19_03-04-48.csv,Ab crunches,Squats,Push-ups,Squats,Push-ups
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Squats,Lunges,Bicep curls
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Squats,Lunges,Squats,Lunges
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Squats,Lunges,Lunges,Lunges
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Squats,Lunges,Squats,Lunges
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Squats,Lunges,Lunges,Lunges
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Squats,Lunges,Bicep curls
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Squats,Squats,Bicep curls
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Bicep curls,Squats,Squats
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Ab crunches,Squats,Squats
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Ab crunches,Squats,Squats
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Bicep curls,Squats,Squats
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Squats,Squats,Squats
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Squats,Squats,Squats
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Lunges,Ab crunches,Squats,Squats
+data/push_ups/004_2026-09-14_14-58-52.csv,Push-ups,Squats,Jumping jacks,Push-ups,Sit-ups
+data/squats/004_2026-09-14_16-58-27.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/004_2026-09-14_16-58-27.csv,Squats,Squats,Lunges,Squats,Sit-ups
+data/squats/004_2026-09-14_16-58-27.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/004_2026-09-14_16-58-27.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/004_2026-09-14_16-58-27.csv,Squats,Squats,Lunges,Squats,Squats
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Squats,Push-ups,Squats,Push-ups
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/jumping_jacks/015_2026-10-14_22-18-22.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/015_2026-10-14_22-18-22.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/015_2026-10-14_22-18-22.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/015_2026-10-14_22-18-22.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Squats,Squats,Squats
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Squats,Lunges,Lunges
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Sit-ups,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/jumping_jacks/011_2026-10-14_20-29-47.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/011_2026-10-14_20-29-47.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/011_2026-10-14_20-29-47.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Lunges,Lunges
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Squats,Bicep curls
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Squats,Bicep curls,Squats,Squats
+data/jumping_jacks/081_2026-10-19_06-22-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/081_2026-10-19_06-22-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/081_2026-10-19_06-22-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/081_2026-10-19_06-22-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/081_2026-10-19_06-22-03.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Push-ups,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Squats,Squats,Lunges
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Sit-ups,Lunges,Lunges
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,Squats,Squats,Squats
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Squats,Squats,Squats
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Squats,Squats,Squats
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Sit-ups,Squats,Squats
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Lunges,Squats,Squats
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Push-ups,Lunges,Lunges
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Sit-ups,Squats,Sit-ups
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Lunges,Squats,Squats
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Sit-ups,Sit-ups,Sit-ups
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Squats,Sit-ups,Sit-ups,Sit-ups
+data/ab_crunches/019_2026-10-19_03-03-51.csv,Ab crunches,Squats,Lunges,Squats,Squats
+data/ab_crunches/019_2026-10-19_03-03-51.csv,Ab crunches,Squats,Squats,Squats,Bicep curls
+data/ab_crunches/019_2026-10-19_03-03-51.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/019_2026-10-19_03-03-51.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/019_2026-10-19_03-03-51.csv,Ab crunches,Squats,Push-ups,Squats,Squats
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Squats,Push-ups,Squats,Squats
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Lunges,Lunges,Squats,Squats
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Squats,Push-ups,Squats,Push-ups
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Squats,Push-ups,Squats,Push-ups
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Squats,Sit-ups,Squats,Push-ups
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Lunges,Lunges,Squats,Squats
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Squats,Push-ups,Squats,Push-ups
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Bicep curls,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Squats,Squats,Squats,Squats
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Bicep curls,Lat raises,Lat raises
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Bicep curls,Lat raises,Lat raises
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Squats,Bicep curls,Lat raises
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Squats,Bicep curls,Bicep curls
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Squats,Bicep curls,Sit-ups
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Bicep curls,Squats,Bicep curls
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Bicep curls,Lat raises,Lat raises
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Bicep curls,Lat raises,Lat raises
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Bicep curls,Bicep curls,Lat raises
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Squats,Ab crunches,Bicep curls,Ab crunches
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Bicep curls,Bicep curls,Bicep curls,Ab crunches
+data/jumping_jacks/040_2026-10-18_23-45-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/040_2026-10-18_23-45-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/040_2026-10-18_23-45-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/040_2026-10-18_23-45-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/040_2026-10-18_23-45-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/008_2026-09-18_03-34-16.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/squats/008_2026-09-18_03-34-16.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/008_2026-09-18_03-34-16.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/squats/008_2026-09-18_03-34-16.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Lat raises,Lat raises,Lat raises
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Squats,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Squats,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Squats,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Squats,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Squats,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Squats,Bicep curls,Bicep curls,Bicep curls
+data/jumping_jacks/026_2026-10-18_17-44-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/026_2026-10-18_17-44-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/026_2026-10-18_17-44-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/026_2026-10-18_17-44-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/026_2026-10-18_17-44-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Ab crunches,Squats,Squats,Squats
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Ab crunches,Squats,Ab crunches,Ab crunches
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Squats,Sit-ups,Squats,Ab crunches
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Squats,Sit-ups,Squats,Ab crunches
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Ab crunches,Ab crunches,Ab crunches,Ab crunches
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Ab crunches,Ab crunches,Ab crunches,Ab crunches
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Ab crunches,Squats,Bicep curls,Ab crunches
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Lat raises,Ab crunches,Ab crunches,Ab crunches
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Lat raises,Bicep curls,Bicep curls
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Lat raises,Squats,Lat raises
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Lat raises,Squats,Lat raises
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Lunges,Lat raises,Lat raises
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Lunges,Lat raises,Lat raises
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Bicep curls,Lat raises,Lat raises
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Bicep curls,Bicep curls,Lat raises
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Lunges,Bicep curls,Lat raises,Lat raises
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Lunges,Lunges,Lunges
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Squats,Sit-ups,Sit-ups
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Push-ups,Squats,Squats
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Squats,Squats,Sit-ups
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Push-ups,Sit-ups,Sit-ups
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,Squats,Sit-ups,Sit-ups
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/push_ups/006_2026-10-04_17-22-14.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/016_2026-10-18_15-13-04.csv,Push-ups,Squats,Sit-ups,Squats,Ab crunches
+data/push_ups/016_2026-10-18_15-13-04.csv,Push-ups,Squats,Ab crunches,Bicep curls,Ab crunches
+data/jumping_jacks/053_2026-10-19_02-16-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/053_2026-10-19_02-16-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/053_2026-10-19_02-16-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/053_2026-10-19_02-16-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/lunges/022_2026-10-18_23-53-46.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/022_2026-10-18_23-53-46.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/022_2026-10-18_23-53-46.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/022_2026-10-18_23-53-46.csv,Lunges,Bicep curls,Lunges,Lunges,Lunges
+data/lunges/022_2026-10-18_23-53-46.csv,Lunges,Bicep curls,Lunges,Lunges,Lunges
+data/squats/061_2026-10-19_02-32-48.csv,Squats,Squats,Squats,Push-ups,Push-ups
+data/squats/061_2026-10-19_02-32-48.csv,Squats,Lat raises,Lat raises,Sit-ups,Lat raises
+data/squats/061_2026-10-19_02-32-48.csv,Squats,Lat raises,Lat raises,Lat raises,Lat raises
+data/squats/061_2026-10-19_02-32-48.csv,Squats,Lat raises,Lat raises,Lat raises,Lat raises
+data/squats/061_2026-10-19_02-32-48.csv,Squats,Lat raises,Squats,Sit-ups,Lat raises
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/097_2026-10-19_06-19-51.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/097_2026-10-19_06-19-51.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/097_2026-10-19_06-19-51.csv,Squats,Squats,Sit-ups,Sit-ups,Sit-ups
+data/squats/097_2026-10-19_06-19-51.csv,Squats,Squats,Sit-ups,Sit-ups,Sit-ups
+data/squats/097_2026-10-19_06-19-51.csv,Squats,Squats,Sit-ups,Sit-ups,Sit-ups
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Squats,Squats,Push-ups,Push-ups
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Squats,Squats,Squats,Push-ups
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Lunges,Squats,Squats,Squats
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Lunges,Squats,Squats,Push-ups
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Lunges,Squats,Push-ups,Push-ups
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Lunges,Squats,Squats,Push-ups
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Lunges,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Sit-ups,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,Squats,Squats,Squats
+data/sit_ups/009_2026-10-14_02-57-41.csv,Sit-ups,Squats,Lunges,Lunges,Lunges
+data/sit_ups/009_2026-10-14_02-57-41.csv,Sit-ups,Lunges,Lunges,Lunges,Lunges
+data/sit_ups/009_2026-10-14_02-57-41.csv,Sit-ups,Lunges,Lunges,Lunges,Lunges
+data/sit_ups/009_2026-10-14_02-57-41.csv,Sit-ups,Squats,Sit-ups,Lunges,Sit-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Lunges,Lat raises,Squats,Sit-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Lunges,Push-ups,Squats
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Lunges,Push-ups,Push-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Push-ups,Push-ups,Push-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Push-ups,Push-ups,Push-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Lat raises,Push-ups,Push-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Push-ups,Push-ups,Push-ups
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Squats,Push-ups,Push-ups,Push-ups
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Squats,Lunges,Squats,Bicep curls
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Squats,Ab crunches,Push-ups,Squats
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Bicep curls,Bicep curls,Ab crunches,Bicep curls
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Ab crunches,Jumping jacks,Jumping jacks,Jumping jacks
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Lunges,Squats,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Bicep curls,Push-ups,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Bicep curls,Push-ups,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Bicep curls,Sit-ups,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Sit-ups,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Lunges,Lunges,Lunges
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Push-ups,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Push-ups,Push-ups,Lunges
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Lunges,Lunges,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Bicep curls,Bicep curls,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Bicep curls,Bicep curls,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Lunges,Push-ups,Push-ups
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Squats,Lunges,Squats,Push-ups
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,Squats,Squats,Lunges
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,Bicep curls,Lunges,Lunges
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,Ab crunches,Squats,Lunges
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,Squats,Squats,Push-ups
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,Sit-ups,Lunges,Push-ups
+data/push_ups/024_2026-10-18_22-39-24.csv,Push-ups,Squats,Ab crunches,Squats,Push-ups
+data/push_ups/024_2026-10-18_22-39-24.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/squats/023_2026-10-14_22-15-08.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/023_2026-10-14_22-15-08.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/023_2026-10-14_22-15-08.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/023_2026-10-14_22-15-08.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/023_2026-10-14_22-15-08.csv,Squats,Squats,Squats,Squats,Squats
+data/push_ups/011_2026-10-14_02-49-02.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/011_2026-10-14_02-49-02.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/011_2026-10-14_02-49-02.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/011_2026-10-14_02-49-02.csv,Push-ups,Squats,Lunges,Lunges,Lunges
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/jumping_jacks/041_2026-10-18_23-49-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/041_2026-10-18_23-49-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/041_2026-10-18_23-49-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/041_2026-10-18_23-49-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/041_2026-10-18_23-49-46.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/035_2026-10-18_15-30-26.csv,Squats,Squats,Squats,Squats,Push-ups
+data/squats/035_2026-10-18_15-30-26.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/035_2026-10-18_15-30-26.csv,Squats,Squats,Squats,Squats,Squats
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Lunges,Lunges,Lunges,Lunges
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Lunges,Lunges,Lunges
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Lunges,Lunges,Lunges
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Lunges,Squats,Squats
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Bicep curls,Squats,Sit-ups
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Squats,Squats,Sit-ups,Sit-ups
+data/lunges/003_2026-10-05_00-09-11.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/003_2026-10-05_00-09-11.csv,Lunges,Lunges,Squats,Lunges,Lunges
+data/bicep_curls/021_2026-10-19_02-09-38.csv,Bicep curls,Ab crunches,Ab crunches,Lunges,Lunges
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Push-ups,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Push-ups,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,Squats,Squats,Squats
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Sit-ups,Sit-ups
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Squats,Sit-ups,Squats,Sit-ups
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Sit-ups,Squats,Squats
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Sit-ups,Squats,Sit-ups
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Sit-ups,Push-ups,Push-ups
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Push-ups,Squats,Push-ups
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Squats,Push-ups,Push-ups,Push-ups
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,Squats,Squats,Squats
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Sit-ups,Squats,Push-ups
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Lunges,Lunges,Lunges
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Lunges,Lunges,Lunges,Lunges
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Sit-ups
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Ab crunches,Squats,Squats
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Lunges,Squats,Squats,Sit-ups
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Sit-ups
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Ab crunches
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Ab crunches,Squats,Squats
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Ab crunches,Squats,Ab crunches
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Sit-ups,Squats,Squats
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Sit-ups,Squats,Sit-ups
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Ab crunches,Lunges,Lunges
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Lunges,Sit-ups,Sit-ups
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Squats,Squats,Squats
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Squats,Squats,Squats,Ab crunches
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,Squats,Squats,Bicep curls
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Squats,Squats,Squats,Lunges
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Bicep curls,Squats,Lat raises
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Bicep curls,Lat raises,Lat raises
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Bicep curls,Squats,Squats
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Ab crunches,Squats,Squats
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Bicep curls,Squats,Squats
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Lunges,Lat raises,Lat raises
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Lat raises,Lat raises,Lat raises
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Squats,Squats,Sit-ups
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Squats,Squats,Push-ups,Lat raises
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Bicep curls,Squats,Ab crunches
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Lat raises,Lat raises,Squats,Squats
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Lat raises,Lat raises,Squats,Squats
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Lat raises,Lat raises,Squats,Ab crunches
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Ab crunches,Squats,Sit-ups
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Ab crunches,Squats,Sit-ups
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Lunges,Squats,Bicep curls
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Squats,Squats,Squats,Squats
+data/lat_raises/012_2026-10-19_03-04-31.csv,Lat raises,Ab crunches,Ab crunches,Squats,Squats
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Squats,Sit-ups,Sit-ups
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Ab crunches,Sit-ups,Sit-ups
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Squats,Ab crunches,Ab crunches
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Squats,Push-ups,Push-ups
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Squats,Squats,Sit-ups
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Squats,Squats,Ab crunches
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Squats,Squats,Ab crunches
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Ab crunches
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Ab crunches
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Lunges,Squats,Squats,Squats
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Sit-ups,Squats,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Sit-ups,Sit-ups,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Lunges,Sit-ups,Squats,Squats
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Lunges,Push-ups,Squats,Squats
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,Ab crunches,Squats,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Lunges,Squats,Squats,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Lunges,Squats,Sit-ups,Sit-ups
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Lunges,Lunges,Lunges,Lunges
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/push_ups/022_2026-10-18_21-39-43.csv,Push-ups,Squats,Lunges,Squats,Lunges
+data/push_ups/022_2026-10-18_21-39-43.csv,Push-ups,Squats,Squats,Lunges,Lunges
+data/jumping_jacks/065_2026-10-19_03-04-43.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/065_2026-10-19_03-04-43.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/065_2026-10-19_03-04-43.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/009_2026-10-14_02-49-43.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/009_2026-10-14_02-49-43.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/009_2026-10-14_02-49-43.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Lunges,Lunges,Squats,Lunges
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Lunges,Squats,Squats,Squats
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Lunges,Lat raises,Lunges,Squats
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Lunges,Squats,Squats,Squats
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Lunges,Squats,Squats,Sit-ups
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Squats,Lunges,Squats,Lunges
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Squats,Lunges,Squats,Squats
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Lunges,Lunges,Squats,Sit-ups
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Squats,Squats,Squats,Squats
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Squats,Push-ups,Squats,Push-ups
+data/ab_crunches/021_2026-10-19_03-28-34.csv,Ab crunches,Squats,Push-ups,Push-ups,Push-ups
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,Squats,Squats,Squats
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/lat_raises/014_2026-10-19_03-09-12.csv,Lat raises,Lat raises,Lat raises,Squats,Lat raises
+data/lat_raises/014_2026-10-19_03-09-12.csv,Lat raises,Lat raises,Ab crunches,Bicep curls,Lat raises
+data/lat_raises/014_2026-10-19_03-09-12.csv,Lat raises,Lat raises,Ab crunches,Squats,Sit-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Push-ups,Push-ups,Push-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Push-ups,Push-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Push-ups,Push-ups,Push-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Squats,Sit-ups,Sit-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Sit-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Sit-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Sit-ups
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Ab crunches
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Squats,Ab crunches,Squats,Squats
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,Squats,Push-ups,Push-ups
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,Squats,Push-ups,Squats
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,Squats,Squats,Squats
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,Squats,Push-ups,Push-ups
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/017_2026-10-18_15-13-42.csv,Push-ups,Squats,Squats,Squats,Ab crunches
+data/push_ups/017_2026-10-18_15-13-42.csv,Push-ups,Squats,Squats,Squats,Ab crunches
+data/push_ups/017_2026-10-18_15-13-42.csv,Push-ups,Squats,Lunges,Sit-ups,Sit-ups
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Squats,Squats,Jumping jacks,Sit-ups
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Squats,Lunges,Jumping jacks,Jumping jacks
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Squats,Sit-ups,Lunges,Lunges
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Squats,Lunges,Jumping jacks,Lunges
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/bicep_curls/003_2026-10-04_17-24-23.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/003_2026-10-04_17-24-23.csv,Bicep curls,Squats,Squats,Squats,Squats
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Squats,Lunges,Push-ups,Push-ups
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Squats,Lunges,Push-ups,Push-ups
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Squats,Push-ups,Squats,Push-ups
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Squats,Lunges,Lunges,Lunges
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Lunges,Bicep curls,Squats,Squats
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Squats,Push-ups,Squats,Squats
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Squats,Lunges,Lunges,Lunges
+data/jumping_jacks/029_2026-10-18_18-11-18.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/029_2026-10-18_18-11-18.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/029_2026-10-18_18-11-18.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/029_2026-10-18_18-11-18.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/029_2026-10-18_18-11-18.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Push-ups,Squats,Push-ups
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Push-ups,Squats,Lunges
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Push-ups,Lunges,Lunges
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Push-ups,Bicep curls,Push-ups
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Lunges,Squats,Lunges
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Squats,Squats,Lunges
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Squats,Push-ups,Bicep curls,Lunges
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Lunges,Lunges
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Squats,Squats,Squats,Ab crunches
+data/bicep_curls/027_2026-10-19_02-51-56.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/027_2026-10-19_02-51-56.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/027_2026-10-19_02-51-56.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/027_2026-10-19_02-51-56.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/bicep_curls/027_2026-10-19_02-51-56.csv,Bicep curls,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Lat raises,Lat raises
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Bicep curls,Lat raises,Bicep curls,Bicep curls
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Ab crunches,Squats,Ab crunches
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Sit-ups,Ab crunches
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Sit-ups,Ab crunches
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Sit-ups,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Sit-ups,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Sit-ups,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,Squats,Squats,Squats
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Ab crunches,Ab crunches,Ab crunches
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Ab crunches,Ab crunches,Ab crunches
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Ab crunches
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Lat raises,Ab crunches,Ab crunches
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Lat raises,Ab crunches,Ab crunches
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/sit_ups/019_2026-10-18_21-50-36.csv,Sit-ups,Squats,Ab crunches,Push-ups,Push-ups
+data/sit_ups/019_2026-10-18_21-50-36.csv,Sit-ups,Squats,Ab crunches,Squats,Push-ups
+data/sit_ups/019_2026-10-18_21-50-36.csv,Sit-ups,Squats,Push-ups,Squats,Sit-ups
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Lunges,Lunges,Lunges
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Lunges,Squats,Lunges
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Squats,Squats,Squats
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Squats,Squats,Squats
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Squats,Squats,Squats
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,Bicep curls,Squats,Lunges
+data/push_ups/056_2026-10-19_06-45-30.csv,Push-ups,Squats,Squats,Push-ups,Push-ups
+data/push_ups/056_2026-10-19_06-45-30.csv,Push-ups,Squats,Squats,Squats,Push-ups
+data/push_ups/056_2026-10-19_06-45-30.csv,Push-ups,Squats,Push-ups,Push-ups,Push-ups
+data/push_ups/056_2026-10-19_06-45-30.csv,Push-ups,Squats,Sit-ups,Lunges,Push-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Squats,Squats,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Lunges,Sit-ups,Squats,Squats
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Bicep curls,Squats,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Sit-ups,Squats,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Sit-ups,Squats,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Squats,Lunges,Sit-ups,Sit-ups
+data/ab_crunches/011_2026-10-18_22-35-25.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/011_2026-10-18_22-35-25.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/ab_crunches/011_2026-10-18_22-35-25.csv,Ab crunches,Squats,Squats,Squats,Squats
+data/lat_raises/006_2026-10-19_02-29-09.csv,Lat raises,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/lat_raises/006_2026-10-19_02-29-09.csv,Lat raises,Bicep curls,Jumping jacks,Jumping jacks,Jumping jacks
+data/lat_raises/006_2026-10-19_02-29-09.csv,Lat raises,Bicep curls,Bicep curls,Bicep curls,Bicep curls
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,Lunges,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Squats,Squats,Push-ups
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Squats,Squats,Push-ups
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Sit-ups,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Lunges,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Squats,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Squats,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Squats,Squats,Push-ups
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Squats,Squats,Ab crunches
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Lunges,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Lunges,Squats,Squats
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,Lunges,Squats,Squats
+data/ab_crunches/026_2026-10-19_05-34-46.csv,Ab crunches,Squats,Bicep curls,Push-ups,Push-ups
+data/ab_crunches/026_2026-10-19_05-34-46.csv,Ab crunches,Squats,Sit-ups,Squats,Push-ups
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Sit-ups
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Squats,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Lunges,Squats,Squats
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Sit-ups,Lunges,Lunges
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,Ab crunches,Lunges,Lunges
+data/squats/053_2026-10-18_23-54-42.csv,Squats,Squats,Sit-ups,Squats,Squats
+data/squats/053_2026-10-18_23-54-42.csv,Squats,Lat raises,Lat raises,Squats,Ab crunches
+data/squats/053_2026-10-18_23-54-42.csv,Squats,Lat raises,Lat raises,Ab crunches,Ab crunches
+data/squats/053_2026-10-18_23-54-42.csv,Squats,Lat raises,Lat raises,Ab crunches,Lat raises
+data/squats/053_2026-10-18_23-54-42.csv,Squats,Lat raises,Lat raises,Ab crunches,Lat raises
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Squats,Squats,Squats,Push-ups
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Squats,Lunges,Sit-ups,Squats
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Jumping jacks,Bicep curls,Jumping jacks,Jumping jacks
+data/push_ups/038_2026-10-19_02-47-10.csv,Push-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/jumping_jacks/048_2026-10-19_00-42-42.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/048_2026-10-19_00-42-42.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/048_2026-10-19_00-42-42.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/068_2026-10-19_03-25-40.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/068_2026-10-19_03-25-40.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/068_2026-10-19_03-25-40.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/068_2026-10-19_03-25-40.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/068_2026-10-19_03-25-40.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Squats,Ab crunches,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Squats,Squats,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Lunges,Squats,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Sit-ups,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Lunges,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Lunges,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Lunges,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Squats,Sit-ups,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Lunges,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Squats,Squats,Lunges
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Bicep curls,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Bicep curls,Squats,Sit-ups
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Push-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Squats,Lunges,Squats
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Lunges,Squats,Sit-ups,Sit-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Bicep curls,Squats,Sit-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Squats,Squats,Squats,Sit-ups
+data/lunges/008_2026-10-14_20-38-31.csv,Lunges,Squats,Lunges,Lunges,Lunges
+data/lunges/008_2026-10-14_20-38-31.csv,Lunges,Bicep curls,Lunges,Lunges,Lunges
+data/lunges/008_2026-10-14_20-38-31.csv,Lunges,Bicep curls,Lunges,Lunges,Lunges
+data/lunges/008_2026-10-14_20-38-31.csv,Lunges,Lunges,Lunges,Lunges,Lunges
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks,Jumping jacks
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Squats,Squats,Squats
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Sit-ups,Push-ups,Push-ups
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Squats,Push-ups,Push-ups
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Squats,Push-ups,Push-ups
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Squats,Squats,Push-ups
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Squats,Squats,Push-ups
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Squats,Squats,Push-ups
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Bicep curls,Squats,Squats
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,Sit-ups,Sit-ups,Sit-ups
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Squats,Lunges,Bicep curls,Bicep curls
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Squats,Sit-ups,Sit-ups,Lat raises
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Lat raises,Push-ups,Lat raises,Lat raises
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Lat raises,Push-ups,Lat raises,Bicep curls
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Lat raises,Push-ups,Lat raises,Bicep curls
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Lat raises,Push-ups,Lat raises,Bicep curls
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Lat raises,Push-ups,Bicep curls,Bicep curls
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Squats,Sit-ups,Lat raises,Lat raises
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Squats,Squats,Sit-ups,Sit-ups

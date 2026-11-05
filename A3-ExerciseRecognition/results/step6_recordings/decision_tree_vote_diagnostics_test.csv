@@ -1,0 +1,130 @@
+recording,true,predicted,windows,winning_votes,winning_share,tie,tied_labels,correct_window_fraction
+data/jumping_jacks/086_2026-10-19_18-15-12.csv,Jumping jacks,Jumping jacks,4,4,1.0,False,Jumping jacks,1.0
+data/sit_ups/024_2026-10-18_23-55-25.csv,Sit-ups,Squats,2,2,1.0,False,Squats,0.0
+data/squats/051_2026-10-18_23-52-20.csv,Squats,Squats,14,7,0.5,False,Squats,0.5
+data/squats/028_2026-10-15_18-02-57.csv,Squats,Lunges,10,6,0.6,False,Lunges,0.3
+data/lunges/006_2026-10-14_02-51-29.csv,Lunges,Lunges,6,3,0.5,True,"Lunges, Squats",0.5
+data/ab_crunches/015_2026-10-19_02-32-31.csv,Ab crunches,Lunges,3,1,0.3333333333333333,True,"Lunges, Push-ups, Squats",0.0
+data/jumping_jacks/045_2026-10-18_23-58-41.csv,Jumping jacks,Jumping jacks,6,6,1.0,False,Jumping jacks,1.0
+data/lunges/041_2026-10-21_22-40-35.csv,Lunges,Squats,7,4,0.5714285714285714,False,Squats,0.2857142857142857
+data/push_ups/005_2026-09-14_16-06-23.csv,Push-ups,Push-ups,10,5,0.5,False,Push-ups,0.5
+data/jumping_jacks/001_2026-09-09_22-11-04.csv,Jumping jacks,Jumping jacks,8,8,1.0,False,Jumping jacks,1.0
+data/push_ups/026_2026-10-18_23-50-30.csv,Push-ups,Push-ups,5,4,0.8,False,Push-ups,0.8
+data/squats/092_2026-10-19_04-48-58.csv,Squats,Lunges,9,5,0.5555555555555556,False,Lunges,0.2222222222222222
+data/sit_ups/039_2026-10-19_14-54-39.csv,Sit-ups,Bicep curls,17,16,0.9411764705882353,False,Bicep curls,0.0
+data/bicep_curls/025_2026-10-19_02-38-57.csv,Bicep curls,Sit-ups,6,2,0.3333333333333333,True,"Sit-ups, Squats",0.0
+data/squats/024_2026-10-14_22-16-05.csv,Squats,Lunges,6,4,0.6666666666666666,False,Lunges,0.3333333333333333
+data/push_ups/052_2026-10-19_03-53-54.csv,Push-ups,Bicep curls,7,4,0.5714285714285714,False,Bicep curls,0.0
+data/jumping_jacks/064_2026-10-19_03-03-59.csv,Jumping jacks,Jumping jacks,3,3,1.0,False,Jumping jacks,1.0
+data/jumping_jacks/079_2026-10-19_05-40-03.csv,Jumping jacks,Jumping jacks,5,4,0.8,False,Jumping jacks,0.8
+data/ab_crunches/020_2026-10-19_03-04-48.csv,Ab crunches,Ab crunches,4,2,0.5,False,Ab crunches,0.5
+data/bicep_curls/042_2026-10-19_04-50-56.csv,Bicep curls,Squats,14,5,0.35714285714285715,False,Squats,0.14285714285714285
+data/push_ups/004_2026-09-14_14-58-52.csv,Push-ups,Jumping jacks,1,1,1.0,False,Jumping jacks,0.0
+data/squats/004_2026-09-14_16-58-27.csv,Squats,Lunges,5,5,1.0,False,Lunges,0.0
+data/lunges/013_2026-10-15_23-40-08.csv,Lunges,Lunges,15,14,0.9333333333333333,False,Lunges,0.9333333333333333
+data/jumping_jacks/015_2026-10-14_22-18-22.csv,Jumping jacks,Jumping jacks,4,4,1.0,False,Jumping jacks,1.0
+data/bicep_curls/015_2026-10-18_23-39-52.csv,Bicep curls,Bicep curls,11,9,0.8181818181818182,False,Bicep curls,0.8181818181818182
+data/jumping_jacks/011_2026-10-14_20-29-47.csv,Jumping jacks,Jumping jacks,3,3,1.0,False,Jumping jacks,1.0
+data/bicep_curls/037_2026-10-19_03-51-13.csv,Bicep curls,Bicep curls,8,8,1.0,False,Bicep curls,1.0
+data/jumping_jacks/081_2026-10-19_06-22-03.csv,Jumping jacks,Jumping jacks,5,5,1.0,False,Jumping jacks,1.0
+data/squats/076_2026-10-19_03-06-35.csv,Squats,Squats,10,5,0.5,False,Squats,0.5
+data/bicep_curls/009_2026-10-14_22-30-43.csv,Bicep curls,Sit-ups,9,4,0.4444444444444444,False,Sit-ups,0.0
+data/ab_crunches/019_2026-10-19_03-03-51.csv,Ab crunches,Squats,5,3,0.6,False,Squats,0.0
+data/squats/069_2026-10-19_02-54-15.csv,Squats,Push-ups,8,4,0.5,False,Push-ups,0.125
+data/squats/019_2026-10-14_14-42-14.csv,Squats,Sit-ups,13,11,0.8461538461538461,False,Sit-ups,0.07692307692307693
+data/lat_raises/004_2026-10-18_23-43-31.csv,Lat raises,Bicep curls,11,7,0.6363636363636364,False,Bicep curls,0.0
+data/jumping_jacks/040_2026-10-18_23-45-23.csv,Jumping jacks,Jumping jacks,5,5,1.0,False,Jumping jacks,1.0
+data/squats/008_2026-09-18_03-34-16.csv,Squats,Lunges,4,3,0.75,False,Lunges,0.25
+data/bicep_curls/016_2026-10-18_23-41-01.csv,Bicep curls,Bicep curls,13,7,0.5384615384615384,False,Bicep curls,0.5384615384615384
+data/jumping_jacks/026_2026-10-18_17-44-46.csv,Jumping jacks,Jumping jacks,5,5,1.0,False,Jumping jacks,1.0
+data/jumping_jacks/024_2026-10-18_16-41-27.csv,Jumping jacks,Jumping jacks,6,6,1.0,False,Jumping jacks,1.0
+data/squats/030_2026-10-17_02-25-24.csv,Squats,Ab crunches,10,3,0.3,True,"Ab crunches, Squats",0.3
+data/bicep_curls/004_2026-10-05_00-06-43.csv,Bicep curls,Bicep curls,8,3,0.375,True,"Bicep curls, Lat raises",0.375
+data/sit_ups/011_2026-10-14_20-33-41.csv,Sit-ups,Squats,9,6,0.6666666666666666,False,Squats,0.0
+data/jumping_jacks/063_2026-10-19_02-59-53.csv,Jumping jacks,Jumping jacks,9,9,1.0,False,Jumping jacks,1.0
+data/push_ups/006_2026-10-04_17-22-14.csv,Push-ups,Push-ups,1,1,1.0,False,Push-ups,1.0
+data/push_ups/016_2026-10-18_15-13-04.csv,Push-ups,Ab crunches,2,1,0.5,True,"Ab crunches, Sit-ups",0.0
+data/jumping_jacks/053_2026-10-19_02-16-19.csv,Jumping jacks,Jumping jacks,4,4,1.0,False,Jumping jacks,1.0
+data/lunges/022_2026-10-18_23-53-46.csv,Lunges,Lunges,5,5,1.0,False,Lunges,1.0
+data/squats/061_2026-10-19_02-32-48.csv,Squats,Lat raises,5,3,0.6,False,Lat raises,0.4
+data/jumping_jacks/033_2026-10-18_18-39-23.csv,Jumping jacks,Jumping jacks,6,6,1.0,False,Jumping jacks,1.0
+data/squats/097_2026-10-19_06-19-51.csv,Squats,Sit-ups,5,3,0.6,False,Sit-ups,0.4
+data/squats/038_2026-10-18_22-40-38.csv,Squats,Squats,6,6,1.0,False,Squats,1.0
+data/lunges/015_2026-10-17_17-09-26.csv,Lunges,Squats,12,9,0.75,False,Squats,0.16666666666666666
+data/sit_ups/009_2026-10-14_02-57-41.csv,Sit-ups,Lunges,4,3,0.75,False,Lunges,0.25
+data/squats/054_2026-10-19_00-56-55.csv,Squats,Push-ups,8,4,0.5,False,Push-ups,0.0
+data/bicep_curls/007_2026-10-14_20-39-45.csv,Bicep curls,Bicep curls,7,5,0.7142857142857143,False,Bicep curls,0.7142857142857143
+data/jumping_jacks/008_2026-10-13_22-45-46.csv,Jumping jacks,Bicep curls,10,7,0.7,False,Bicep curls,0.3
+data/bicep_curls/044_2026-10-19_05-01-25.csv,Bicep curls,Lunges,13,5,0.38461538461538464,False,Lunges,0.15384615384615385
+data/lunges/010_2026-10-14_22-20-29.csv,Lunges,Squats,6,2,0.3333333333333333,False,Squats,0.16666666666666666
+data/push_ups/024_2026-10-18_22-39-24.csv,Push-ups,Ab crunches,2,1,0.5,True,"Ab crunches, Push-ups",0.5
+data/squats/023_2026-10-14_22-15-08.csv,Squats,Squats,5,5,1.0,False,Squats,1.0
+data/push_ups/011_2026-10-14_02-49-02.csv,Push-ups,Push-ups,4,3,0.75,False,Push-ups,0.75
+data/lunges/033_2026-10-19_03-54-14.csv,Lunges,Push-ups,8,5,0.625,False,Push-ups,0.375
+data/jumping_jacks/041_2026-10-18_23-49-46.csv,Jumping jacks,Jumping jacks,5,5,1.0,False,Jumping jacks,1.0
+data/squats/035_2026-10-18_15-30-26.csv,Squats,Squats,3,3,1.0,False,Squats,1.0
+data/sit_ups/033_2026-10-19_02-57-06.csv,Sit-ups,Lunges,9,4,0.4444444444444444,False,Lunges,0.2222222222222222
+data/lunges/003_2026-10-05_00-09-11.csv,Lunges,Lunges,2,1,0.5,True,"Lunges, Squats",0.5
+data/bicep_curls/021_2026-10-19_02-09-38.csv,Bicep curls,Ab crunches,1,1,1.0,False,Ab crunches,0.0
+data/squats/102_2026-10-21_22-26-14.csv,Squats,Squats,12,9,0.75,False,Squats,0.75
+data/jumping_jacks/072_2026-10-19_03-45-48.csv,Jumping jacks,Jumping jacks,9,8,0.8888888888888888,False,Jumping jacks,0.8888888888888888
+data/squats/048_2026-10-18_23-51-22.csv,Squats,Sit-ups,7,7,1.0,False,Sit-ups,0.0
+data/lunges/036_2026-10-19_06-23-56.csv,Lunges,Push-ups,8,3,0.375,True,"Push-ups, Sit-ups",0.0
+data/squats/017_2026-10-13_22-43-35.csv,Squats,Squats,13,12,0.9230769230769231,False,Squats,0.9230769230769231
+data/sit_ups/003_2026-10-04_22-41-32.csv,Sit-ups,Squats,12,8,0.6666666666666666,False,Squats,0.08333333333333333
+data/sit_ups/017_2026-10-18_21-40-47.csv,Sit-ups,Ab crunches,9,3,0.3333333333333333,True,"Ab crunches, Sit-ups",0.3333333333333333
+data/bicep_curls/039_2026-10-19_03-54-47.csv,Bicep curls,Bicep curls,7,5,0.7142857142857143,False,Bicep curls,0.7142857142857143
+data/lat_raises/015_2026-10-19_03-24-09.csv,Lat raises,Bicep curls,9,4,0.4444444444444444,False,Bicep curls,0.1111111111111111
+data/squats/094_2026-10-19_05-28-58.csv,Squats,Ab crunches,12,6,0.5,False,Ab crunches,0.08333333333333333
+data/lat_raises/012_2026-10-19_03-04-31.csv,Lat raises,Ab crunches,1,1,1.0,False,Ab crunches,0.0
+data/sit_ups/035_2026-10-19_03-24-29.csv,Sit-ups,Squats,9,6,0.6666666666666666,False,Squats,0.2222222222222222
+data/squats/086_2026-10-19_03-44-42.csv,Squats,Squats,13,7,0.5384615384615384,False,Squats,0.5384615384615384
+data/jumping_jacks/060_2026-10-19_02-58-19.csv,Jumping jacks,Jumping jacks,6,6,1.0,False,Jumping jacks,1.0
+data/push_ups/022_2026-10-18_21-39-43.csv,Push-ups,Lunges,2,1,0.5,True,"Lunges, Squats",0.0
+data/jumping_jacks/065_2026-10-19_03-04-43.csv,Jumping jacks,Jumping jacks,3,3,1.0,False,Jumping jacks,1.0
+data/jumping_jacks/009_2026-10-14_02-49-43.csv,Jumping jacks,Jumping jacks,3,3,1.0,False,Jumping jacks,1.0
+data/lunges/039_2026-10-21_22-38-14.csv,Lunges,Lunges,7,4,0.5714285714285714,False,Lunges,0.5714285714285714
+data/lunges/027_2026-10-19_02-48-39.csv,Lunges,Lunges,9,5,0.5555555555555556,False,Lunges,0.5555555555555556
+data/ab_crunches/021_2026-10-19_03-28-34.csv,Ab crunches,Push-ups,1,1,1.0,False,Push-ups,0.0
+data/squats/027_2026-10-15_17-53-13.csv,Squats,Squats,14,14,1.0,False,Squats,1.0
+data/jumping_jacks/062_2026-10-19_02-59-45.csv,Jumping jacks,Jumping jacks,7,7,1.0,False,Jumping jacks,1.0
+data/lat_raises/014_2026-10-19_03-09-12.csv,Lat raises,Ab crunches,3,2,0.6666666666666666,False,Ab crunches,0.3333333333333333
+data/squats/063_2026-10-19_02-42-46.csv,Squats,Sit-ups,24,16,0.6666666666666666,False,Sit-ups,0.20833333333333334
+data/push_ups/055_2026-10-19_06-25-20.csv,Push-ups,Squats,6,4,0.6666666666666666,False,Squats,0.3333333333333333
+data/push_ups/017_2026-10-18_15-13-42.csv,Push-ups,Squats,3,2,0.6666666666666666,False,Squats,0.0
+data/squats/059_2026-10-19_02-15-12.csv,Squats,Jumping jacks,8,3,0.375,False,Jumping jacks,0.125
+data/bicep_curls/003_2026-10-04_17-24-23.csv,Bicep curls,Bicep curls,2,1,0.5,True,"Bicep curls, Squats",0.5
+data/push_ups/032_2026-10-19_01-47-23.csv,Push-ups,Lunges,6,3,0.5,True,"Lunges, Push-ups",0.5
+data/squats/021_2026-10-14_20-26-54.csv,Squats,Squats,7,4,0.5714285714285714,False,Squats,0.5714285714285714
+data/push_ups/034_2026-10-19_02-02-34.csv,Push-ups,Push-ups,6,5,0.8333333333333334,False,Push-ups,0.8333333333333334
+data/jumping_jacks/029_2026-10-18_18-11-18.csv,Jumping jacks,Jumping jacks,5,5,1.0,False,Jumping jacks,1.0
+data/squats/046_2026-10-18_23-47-59.csv,Squats,Push-ups,9,5,0.5555555555555556,False,Push-ups,0.1111111111111111
+data/squats/037_2026-10-18_19-36-38.csv,Squats,Lunges,16,8,0.5,True,"Lunges, Squats",0.5
+data/bicep_curls/027_2026-10-19_02-51-56.csv,Bicep curls,Bicep curls,5,5,1.0,False,Bicep curls,1.0
+data/lat_raises/018_2026-10-19_15-00-07.csv,Lat raises,Lat raises,12,11,0.9166666666666666,False,Lat raises,0.9166666666666666
+data/ab_crunches/007_2026-10-18_20-27-57.csv,Ab crunches,Squats,9,8,0.8888888888888888,False,Squats,0.1111111111111111
+data/squats/006_2026-09-16_13-11-39.csv,Squats,Squats,19,19,1.0,False,Squats,1.0
+data/ab_crunches/008_2026-10-18_20-34-22.csv,Ab crunches,Squats,12,8,0.6666666666666666,False,Squats,0.16666666666666666
+data/sit_ups/019_2026-10-18_21-50-36.csv,Sit-ups,Ab crunches,3,2,0.6666666666666666,False,Ab crunches,0.0
+data/push_ups/033_2026-10-19_01-53-39.csv,Push-ups,Squats,7,3,0.42857142857142855,False,Squats,0.14285714285714285
+data/push_ups/056_2026-10-19_06-45-30.csv,Push-ups,Squats,4,2,0.5,False,Squats,0.25
+data/sit_ups/020_2026-10-18_22-36-09.csv,Sit-ups,Sit-ups,9,6,0.6666666666666666,False,Sit-ups,0.6666666666666666
+data/ab_crunches/011_2026-10-18_22-35-25.csv,Ab crunches,Squats,3,3,1.0,False,Squats,0.0
+data/lat_raises/006_2026-10-19_02-29-09.csv,Lat raises,Jumping jacks,3,2,0.6666666666666666,False,Jumping jacks,0.0
+data/squats/049_2026-10-18_23-51-24.csv,Squats,Squats,10,5,0.5,False,Squats,0.5
+data/bicep_curls/028_2026-10-19_03-02-01.csv,Bicep curls,Squats,11,6,0.5454545454545454,False,Squats,0.0
+data/ab_crunches/026_2026-10-19_05-34-46.csv,Ab crunches,Bicep curls,2,1,0.5,True,"Bicep curls, Sit-ups",0.0
+data/squats/080_2026-10-19_03-23-29.csv,Squats,Squats,7,7,1.0,False,Squats,1.0
+data/squats/044_2026-10-18_23-46-27.csv,Squats,Squats,8,5,0.625,False,Squats,0.625
+data/squats/053_2026-10-18_23-54-42.csv,Squats,Lat raises,5,4,0.8,False,Lat raises,0.0
+data/jumping_jacks/071_2026-10-19_03-38-39.csv,Jumping jacks,Bicep curls,7,5,0.7142857142857143,False,Bicep curls,0.0
+data/push_ups/038_2026-10-19_02-47-10.csv,Push-ups,Sit-ups,1,1,1.0,False,Sit-ups,0.0
+data/jumping_jacks/048_2026-10-19_00-42-42.csv,Jumping jacks,Jumping jacks,3,3,1.0,False,Jumping jacks,1.0
+data/jumping_jacks/068_2026-10-19_03-25-40.csv,Jumping jacks,Jumping jacks,5,5,1.0,False,Jumping jacks,1.0
+data/lunges/024_2026-10-18_23-59-32.csv,Lunges,Lunges,9,6,0.6666666666666666,False,Lunges,0.6666666666666666
+data/sit_ups/016_2026-10-18_21-40-34.csv,Sit-ups,Lunges,11,4,0.36363636363636365,False,Lunges,0.2727272727272727
+data/sit_ups/034_2026-10-19_02-58-05.csv,Sit-ups,Sit-ups,8,4,0.5,False,Sit-ups,0.5
+data/lunges/008_2026-10-14_20-38-31.csv,Lunges,Lunges,4,4,1.0,False,Lunges,1.0
+data/jumping_jacks/035_2026-10-18_21-24-12.csv,Jumping jacks,Jumping jacks,6,6,1.0,False,Jumping jacks,1.0
+data/push_ups/044_2026-10-19_03-32-30.csv,Push-ups,Squats,9,6,0.6666666666666666,False,Squats,0.0
+data/bicep_curls/018_2026-10-18_23-57-51.csv,Bicep curls,Push-ups,9,5,0.5555555555555556,False,Push-ups,0.0

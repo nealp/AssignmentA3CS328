@@ -1,0 +1,4 @@
+example,recording,exercise,placement,true_reps,pred_reps,error,error_baseline,improvement
+improvement,data/lunges/019_2026-10-18_20-44-36.csv,Lunges,Trouser,15,15,0,17,17
+largest_error,data/jumping_jacks/005_2026-10-04_17-25-59.csv,Jumping jacks,Trouser,35,4,-31,-21,-10
+segmentation_failure,data/ab_crunches/002_2026-10-13_22-50-15.csv,Ab crunches,Hand,27,13,-14,-13,-1

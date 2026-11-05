@@ -1,0 +1,465 @@
+{
+  "scope": "Step 3 development; selection on fit only; no test signals or predictions",
+  "signal_stage_winner": "pca_1Hz",
+  "selected_counter": "pca_1Hz_distance0.6_prom1",
+  "selected_settings": {
+    "signal_kind": "pca",
+    "cutoff_hz": 1.0,
+    "min_distance_sec": 0.6,
+    "prominence_fraction": 1.0
+  },
+  "candidate_settings": {
+    "baseline": null,
+    "magnitude_1Hz": {
+      "signal_kind": "magnitude",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 0.5
+    },
+    "magnitude_1.5Hz": {
+      "signal_kind": "magnitude",
+      "cutoff_hz": 1.5,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 0.5
+    },
+    "axis_1Hz": {
+      "signal_kind": "axis",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 0.5
+    },
+    "axis_1.5Hz": {
+      "signal_kind": "axis",
+      "cutoff_hz": 1.5,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 0.5
+    },
+    "pca_1Hz": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 0.5
+    },
+    "pca_1.5Hz": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.5,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 0.5
+    },
+    "pca_1Hz_distance0.6_prom1": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 0.6,
+      "prominence_fraction": 1.0
+    },
+    "pca_1Hz_distance0.9_prom0.5": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 0.9,
+      "prominence_fraction": 0.5
+    },
+    "pca_1Hz_distance0.9_prom1": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 0.9,
+      "prominence_fraction": 1.0
+    },
+    "pca_1Hz_distance1.2_prom0.5": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 1.2,
+      "prominence_fraction": 0.5
+    },
+    "pca_1Hz_distance1.2_prom1": {
+      "signal_kind": "pca",
+      "cutoff_hz": 1.0,
+      "min_distance_sec": 1.2,
+      "prominence_fraction": 1.0
+    }
+  },
+  "counter_comparison": [
+    {
+      "counter": "baseline",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 6.36,
+      "within_2": 0.28,
+      "bias": 1.248888888888889
+    },
+    {
+      "counter": "baseline",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 5.947368421052632,
+      "within_2": 0.21052631578947367,
+      "bias": 1.394736842105263
+    },
+    {
+      "counter": "magnitude_1Hz",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 6.613333333333333,
+      "within_2": 0.3022222222222222,
+      "bias": -2.4
+    },
+    {
+      "counter": "magnitude_1Hz",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 6.105263157894737,
+      "within_2": 0.3157894736842105,
+      "bias": -1.631578947368421
+    },
+    {
+      "counter": "magnitude_1.5Hz",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 7.475555555555555,
+      "within_2": 0.28,
+      "bias": 2.5155555555555558
+    },
+    {
+      "counter": "magnitude_1.5Hz",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 6.9868421052631575,
+      "within_2": 0.17105263157894737,
+      "bias": 3.3289473684210527
+    },
+    {
+      "counter": "axis_1Hz",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 5.733333333333333,
+      "within_2": 0.40444444444444444,
+      "bias": 1.1288888888888888
+    },
+    {
+      "counter": "axis_1Hz",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 3.8815789473684212,
+      "within_2": 0.47368421052631576,
+      "bias": 0.8552631578947368
+    },
+    {
+      "counter": "axis_1.5Hz",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 7.626666666666667,
+      "within_2": 0.3111111111111111,
+      "bias": 4.1866666666666665
+    },
+    {
+      "counter": "axis_1.5Hz",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 6.131578947368421,
+      "within_2": 0.3684210526315789,
+      "bias": 4.0
+    },
+    {
+      "counter": "pca_1Hz",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 5.333333333333333,
+      "within_2": 0.4311111111111111,
+      "bias": 0.7111111111111111
+    },
+    {
+      "counter": "pca_1Hz",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 4.0131578947368425,
+      "within_2": 0.4342105263157895,
+      "bias": 0.8552631578947368
+    },
+    {
+      "counter": "pca_1.5Hz",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 7.591111111111111,
+      "within_2": 0.3333333333333333,
+      "bias": 4.133333333333334
+    },
+    {
+      "counter": "pca_1.5Hz",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 6.342105263157895,
+      "within_2": 0.34210526315789475,
+      "bias": 4.2894736842105265
+    },
+    {
+      "counter": "pca_1Hz_distance0.6_prom1",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 4.586666666666667,
+      "within_2": 0.5066666666666667,
+      "bias": -1.8666666666666667
+    },
+    {
+      "counter": "pca_1Hz_distance0.6_prom1",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 3.3289473684210527,
+      "within_2": 0.5657894736842105,
+      "bias": -1.513157894736842
+    },
+    {
+      "counter": "pca_1Hz_distance0.9_prom0.5",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 5.311111111111111,
+      "within_2": 0.4311111111111111,
+      "bias": -0.5022222222222222
+    },
+    {
+      "counter": "pca_1Hz_distance0.9_prom0.5",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 4.223684210526316,
+      "within_2": 0.42105263157894735,
+      "bias": 0.039473684210526314
+    },
+    {
+      "counter": "pca_1Hz_distance0.9_prom1",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 4.808888888888889,
+      "within_2": 0.5022222222222222,
+      "bias": -2.568888888888889
+    },
+    {
+      "counter": "pca_1Hz_distance0.9_prom1",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 3.539473684210526,
+      "within_2": 0.5394736842105263,
+      "bias": -1.8289473684210527
+    },
+    {
+      "counter": "pca_1Hz_distance1.2_prom0.5",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 5.764444444444444,
+      "within_2": 0.37333333333333335,
+      "bias": -3.24
+    },
+    {
+      "counter": "pca_1Hz_distance1.2_prom0.5",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 4.907894736842105,
+      "within_2": 0.4473684210526316,
+      "bias": -3.039473684210526
+    },
+    {
+      "counter": "pca_1Hz_distance1.2_prom1",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 5.76,
+      "within_2": 0.4088888888888889,
+      "bias": -4.48
+    },
+    {
+      "counter": "pca_1Hz_distance1.2_prom1",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 4.815789473684211,
+      "within_2": 0.4868421052631579,
+      "bias": -4.0
+    }
+  ],
+  "segmentation_counter_comparison": [
+    {
+      "segmentation": "none",
+      "counter": "baseline",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 8.073089700996677,
+      "within_2": 0.18604651162790697,
+      "bias": 5.129568106312292
+    },
+    {
+      "segmentation": "none",
+      "counter": "baseline",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 8.12,
+      "within_2": 0.2,
+      "bias": 5.302222222222222
+    },
+    {
+      "segmentation": "none",
+      "counter": "baseline",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 7.934210526315789,
+      "within_2": 0.14473684210526316,
+      "bias": 4.618421052631579
+    },
+    {
+      "segmentation": "baseline",
+      "counter": "baseline",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 7.980066445182724,
+      "within_2": 0.19601328903654486,
+      "bias": 4.6112956810631225
+    },
+    {
+      "segmentation": "baseline",
+      "counter": "baseline",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 7.977777777777778,
+      "within_2": 0.21333333333333335,
+      "bias": 4.804444444444444
+    },
+    {
+      "segmentation": "baseline",
+      "counter": "baseline",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 7.9868421052631575,
+      "within_2": 0.14473684210526316,
+      "bias": 4.0394736842105265
+    },
+    {
+      "segmentation": "adaptive",
+      "counter": "baseline",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 6.255813953488372,
+      "within_2": 0.26245847176079734,
+      "bias": 1.2857142857142858
+    },
+    {
+      "segmentation": "adaptive",
+      "counter": "baseline",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 6.36,
+      "within_2": 0.28,
+      "bias": 1.248888888888889
+    },
+    {
+      "segmentation": "adaptive",
+      "counter": "baseline",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 5.947368421052632,
+      "within_2": 0.21052631578947367,
+      "bias": 1.394736842105263
+    },
+    {
+      "segmentation": "baseline",
+      "counter": "ours",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 5.538205980066445,
+      "within_2": 0.4119601328903654,
+      "bias": -0.11627906976744186
+    },
+    {
+      "segmentation": "baseline",
+      "counter": "ours",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 5.671111111111111,
+      "within_2": 0.4,
+      "bias": -0.11555555555555555
+    },
+    {
+      "segmentation": "baseline",
+      "counter": "ours",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 5.144736842105263,
+      "within_2": 0.4473684210526316,
+      "bias": -0.11842105263157894
+    },
+    {
+      "segmentation": "adaptive",
+      "counter": "ours",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 4.269102990033223,
+      "within_2": 0.521594684385382,
+      "bias": -1.7774086378737541
+    },
+    {
+      "segmentation": "adaptive",
+      "counter": "ours",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 4.586666666666667,
+      "within_2": 0.5066666666666667,
+      "bias": -1.8666666666666667
+    },
+    {
+      "segmentation": "adaptive",
+      "counter": "ours",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 3.3289473684210527,
+      "within_2": 0.5657894736842105,
+      "bias": -1.513157894736842
+    },
+    {
+      "segmentation": "protocol_trim",
+      "counter": "ours",
+      "split": "train",
+      "recordings": 301,
+      "MAE": 4.471760797342193,
+      "within_2": 0.4717607973421927,
+      "bias": -0.8637873754152824
+    },
+    {
+      "segmentation": "protocol_trim",
+      "counter": "ours",
+      "split": "fit",
+      "recordings": 225,
+      "MAE": 4.746666666666667,
+      "within_2": 0.4666666666666667,
+      "bias": -0.7733333333333333
+    },
+    {
+      "segmentation": "protocol_trim",
+      "counter": "ours",
+      "split": "validation",
+      "recordings": 76,
+      "MAE": 3.6578947368421053,
+      "within_2": 0.4868421052631579,
+      "bias": -1.131578947368421
+    }
+  ],
+  "selected_training_metrics": {
+    "recordings": 301,
+    "MAE": 4.269102990033223,
+    "within_2": 0.521594684385382,
+    "bias": -1.7774086378737541
+  },
+  "figures": {
+    "improvement": {
+      "recording": "data/lunges/019_2026-10-18_20-44-36.csv",
+      "figure": "results/step3_rep_counting/figures/improvement.png"
+    },
+    "largest_error": {
+      "recording": "data/jumping_jacks/005_2026-10-04_17-25-59.csv",
+      "figure": "results/step3_rep_counting/figures/largest_error.png"
+    },
+    "segmentation_failure": {
+      "recording": "data/ab_crunches/002_2026-10-13_22-50-15.csv",
+      "figure": "results/step3_rep_counting/figures/segmentation_failure.png"
+    }
+  },
+  "exercise_labels": "true exercise; selected counter uses one common setting for all exercises",
+  "source_sha256": {
+    "util.py": "b5d19baf94207c8414cd6ff3e055d3649e1a487f128581a7e7d13c1ac62daed1",
+    "segmentation.py": "9ecc927b7e6ee512a1ca95ccfdc65f1ab5459ec0f3fc129900803724be8635a6",
+    "rep_counting.py": "8b1b049721222f6857cc074ffe8c453d0d59fbfb50b6f352a68d08eddb3ba572",
+    "rep_counting_exploration.py": "2bbb4c88d1e34b843ec560e499ec7eefdb2815aa6def859f980b00d65187c808"
+  }
+}

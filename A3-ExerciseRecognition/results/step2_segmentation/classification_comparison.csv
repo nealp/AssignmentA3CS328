@@ -1,0 +1,7 @@
+approach,model,fit_windows,validation_windows,validation_window_accuracy
+baseline,Decision Tree,3677,1156,0.4186851211072664
+baseline,Random Forest,3677,1156,0.4679930795847751
+protocol_trim,Decision Tree,2889,882,0.4489795918367347
+protocol_trim,Random Forest,2889,882,0.4954648526077097
+adaptive,Decision Tree,2670,887,0.49943630214205187
+adaptive,Random Forest,2670,887,0.48928974069898534

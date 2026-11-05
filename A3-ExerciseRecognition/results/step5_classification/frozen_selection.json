@@ -1,0 +1,111 @@
+{
+  "selection_rule": "highest validation window accuracy; first declared candidate on exact ties",
+  "inputs": {
+    "window_sec": 6,
+    "features": [
+      "avg",
+      "max",
+      "med",
+      "min",
+      "q25",
+      "q75",
+      "std",
+      "std_x",
+      "std_y",
+      "std_z",
+      "axis_dominance",
+      "dominant_frequency",
+      "spectral_concentration",
+      "corr_xy",
+      "corr_yz",
+      "rms_acceleration"
+    ],
+    "segmentation": "adaptive",
+    "random_state": 42,
+    "training_frames_sha256": "1f8c97dee714f8f9978a8219d65bff47acc4adf5302e057d1787e01e47f33a89",
+    "manifest_sha256": "928c538b752a95a883505135b6f90188b24e6b286626f32232de19d506a2f6fe",
+    "source_sha256": {
+      "util.py": "b5d19baf94207c8414cd6ff3e055d3649e1a487f128581a7e7d13c1ac62daed1",
+      "features.py": "aee160d66061b5d41bd5585cd0db510e2409b1b915e79302d69918eaebd244e6",
+      "segmentation.py": "9ecc927b7e6ee512a1ca95ccfdc65f1ab5459ec0f3fc129900803724be8635a6",
+      "classification.py": "51541d599a5918ac7451e56c09f42ef6e8e13831745323e7a1522bf0f6428521",
+      "classification_exploration.py": "d3829053ce4e3bdc75b70aaaa268a24edd079ad4e663a4edc028b3cde3895ce3"
+    }
+  },
+  "grids": {
+    "decision_tree": {
+      "max_depth": [
+        3,
+        5,
+        8,
+        12,
+        null
+      ],
+      "criterion": [
+        "gini",
+        "entropy"
+      ],
+      "class_weight": [
+        null,
+        "balanced"
+      ]
+    },
+    "random_forest": {
+      "n_estimators": [
+        100,
+        200
+      ],
+      "max_depth": [
+        null,
+        8,
+        16
+      ],
+      "min_samples_leaf": [
+        1,
+        3
+      ],
+      "class_weight": [
+        null,
+        "balanced"
+      ]
+    }
+  },
+  "models": {
+    "decision_tree": {
+      "selected_parameters": {
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 12
+      },
+      "selected_candidate": 3,
+      "selected_validation_window_accuracy": 0.5009074410163339,
+      "default_parameters": {
+        "max_depth": 5,
+        "criterion": "entropy",
+        "class_weight": null
+      },
+      "default_candidate": 6,
+      "default_validation_window_accuracy": 0.43738656987295826
+    },
+    "random_forest": {
+      "selected_parameters": {
+        "class_weight": "balanced",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "n_estimators": 200
+      },
+      "selected_candidate": 13,
+      "selected_validation_window_accuracy": 0.5662431941923775,
+      "default_parameters": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "class_weight": null
+      },
+      "default_candidate": 0,
+      "default_validation_window_accuracy": 0.5626134301270418
+    }
+  },
+  "selected_model_family": "random_forest",
+  "test_used_for_selection": false
+}

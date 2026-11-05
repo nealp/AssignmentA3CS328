@@ -1,0 +1,63 @@
+{
+  "Ab crunches": {
+    "precision": 0.5,
+    "recall": 0.02631578947368421,
+    "f1-score": 0.05,
+    "support": 38.0
+  },
+  "Bicep curls": {
+    "precision": 0.8409090909090909,
+    "recall": 0.4868421052631579,
+    "f1-score": 0.6166666666666667,
+    "support": 76.0
+  },
+  "Jumping jacks": {
+    "precision": 0.9772727272727273,
+    "recall": 0.9347826086956522,
+    "f1-score": 0.9555555555555556,
+    "support": 92.0
+  },
+  "Lat raises": {
+    "precision": 0.9,
+    "recall": 0.36,
+    "f1-score": 0.5142857142857142,
+    "support": 25.0
+  },
+  "Lunges": {
+    "precision": 0.29411764705882354,
+    "recall": 0.47619047619047616,
+    "f1-score": 0.36363636363636365,
+    "support": 63.0
+  },
+  "Push-ups": {
+    "precision": 0.5,
+    "recall": 0.5102040816326531,
+    "f1-score": 0.5050505050505051,
+    "support": 49.0
+  },
+  "Sit-ups": {
+    "precision": 0.18181818181818182,
+    "recall": 0.16216216216216217,
+    "f1-score": 0.17142857142857143,
+    "support": 37.0
+  },
+  "Squats": {
+    "precision": 0.4954954954954955,
+    "recall": 0.6432748538011696,
+    "f1-score": 0.5597964376590331,
+    "support": 171.0
+  },
+  "accuracy": 0.5517241379310345,
+  "macro avg": {
+    "precision": 0.5862016428192899,
+    "recall": 0.44997150965236943,
+    "f1-score": 0.46705247678530126,
+    "support": 551.0
+  },
+  "weighted avg": {
+    "precision": 0.5985564356440838,
+    "recall": 0.5517241379310345,
+    "f1-score": 0.5431207518585084,
+    "support": 551.0
+  }
+}
