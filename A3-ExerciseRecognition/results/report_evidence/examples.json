@@ -1,0 +1,37 @@
+[
+  {
+    "kind": "classification",
+    "recording": "data/squats/024_2026-10-14_22-16-05.csv",
+    "true": "Squats",
+    "predicted": "Sit-ups",
+    "placement": "Trouser",
+    "reps": 10,
+    "segment_start": 5.09983984375,
+    "segment_end": 26.653474853515625,
+    "counted": 20,
+    "full_axis_std": {
+      "x": 1.6332744533100978,
+      "y": 1.4771013566237108,
+      "z": 1.88696539378043
+    }
+  },
+  {
+    "kind": "counting",
+    "recording": "data/push_ups/004_2026-09-14_14-58-52.csv",
+    "exercise": "Push-ups",
+    "placement": "Trouser",
+    "true_reps": 20,
+    "pred_reps": 3,
+    "error": -17,
+    "segmentation": "adaptive",
+    "counter": "pca_1Hz_distance0.6_prom1",
+    "segment_start": 3.13998828125,
+    "segment_end": 9.402213623046874,
+    "counted": 3,
+    "full_axis_std": {
+      "x": 2.2402492749291585,
+      "y": 2.124408597545547,
+      "z": 1.948534007460989
+    }
+  }
+]
